@@ -1,0 +1,22 @@
+
+.innerSkill{
+    border: 1px solid white;
+    width: 450px;
+    height: 20px;
+    margin-top: 4px;
+}
+.innermostSkill{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 400px;
+    height: 19px;
+}
+.skillName{
+   
+    color: white;
+}
+.percentage{
+    margin-left: 350px; 
+    color: white;
+
+}

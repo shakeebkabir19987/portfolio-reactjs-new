@@ -1,0 +1,128 @@
+.maincontact{
+    width: 100%;
+    height: 500px;
+    /* border: 1px solid red; */
+    background-color: black;
+    display: flex;
+    
+}
+.contact1{
+  /* border: 1px solid red; */
+  width: 500px;
+  height: 400px;
+  margin-left: 100px;
+  margin-top: 90px;
+  
+}
+.contacth1{
+  font-weight:bolder;
+ 
+}
+/* email icon */
+.emailicon{
+  width: 30px;
+  height: 30px;
+}
+
+.email{
+
+  margin-left: 5px;
+  font-weight: bold;
+  color: white;
+  
+}
+
+/* linkin icon */
+.linkinicon{
+  width: 30px;
+  height: 30px;
+}
+
+.linkin{
+
+  margin-left: 5px;
+  font-weight: bold;
+  color: white;
+  
+}
+
+/* github icon */
+.githubicon{
+  width: 30px;
+  height: 30px;
+}
+
+.github{
+
+  margin-left: 5px;
+  font-weight: bold;
+  color: white;
+  
+}
+/* whatsap */
+.whatsapicon{
+  width: 30px;
+  height: 30px;
+}
+
+.whatsap{
+
+  margin-left: 5px;
+  font-weight: bold;
+  color: white;
+  
+}
+
+.contactbtn{
+background-color: red;
+color: white;
+font-weight: bolder;
+height: 30px;
+width: 100px;
+border-radius: 8px;
+}
+/* .contact2{
+  
+    width: 600px;
+    height: 400px;
+    margin-left: 200px;
+    margin-top: 40px;
+} */
+
+/* .input1{
+  background-color: rgb(59, 57, 57);;
+  width: 450px;
+  height: 50px;
+  margin-left: 150px;
+  border-radius: 10px;
+  color: white;
+}
+
+.input2{
+  background-color: rgb(59, 57, 57);;
+  width: 450px;
+  height: 50px;
+  margin-left: 150px;
+  border-radius: 10px;
+  color: white;
+}
+
+.input3{
+  background-color: rgb(59, 57, 57);
+  width: 450px;
+  height: 100px;
+  margin-left: 150px;
+  border-radius: 10px;
+  color: white;
+}
+
+.contactbtn2{
+  background-color: red;
+  color: white;
+  font-weight: bolder;
+  height: 30px;
+  width: 100px;
+  border-radius: 8px;
+  margin-left: 150px;
+
+} */

@@ -1,0 +1,49 @@
+.mainabout{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    justify-content: space-between;
+    
+}
+
+.about1part{
+  /* border: 1px solid red; */
+  height: 430px;
+  width: 430px;
+  margin-left: 100px;
+}
+
+.about2part{
+    /* border: 1px solid red; */
+    height: 430px;
+    width: 650px;
+    margin-right: 100px;
+}
+.image2{
+    height: 430px;
+  width: 430px;
+  border-radius: 30px;
+}
+.abouth1{
+text-align: center;
+color: white;
+}
+.abouth2{
+  text-align: center;
+  color: red;
+}
+.abouth3{
+  color: grey;
+}
+.aboutdescription {
+  font-size: larger;
+  text-align: justify;
+  line-height: 1.3;
+  color: grey;
+  
+}
+

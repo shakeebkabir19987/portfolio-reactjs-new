@@ -1,0 +1,39 @@
+.mainform{
+    margin-top: 180px;
+    margin-left: 200px;
+}
+.input1{
+    background-color: rgb(59, 57, 57);;
+    width: 450px;
+    height: 50px;
+    margin-left: 150px;
+    border-radius: 10px;
+    color: white;
+}
+.input2{
+    background-color: rgb(59, 57, 57);;
+    width: 450px;
+    height: 50px;
+    margin-left: 150px;
+    border-radius: 10px;
+    color: white;
+}
+.submitbtn{
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    height: 30px;
+    width: 100px;
+    border-radius: 8px;
+    margin-left: 150px;
+
+}
+.userErrorstyle{
+color: red;
+text-align: center;
+}
+
+.passwordErrorstyle{
+    color: red;
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+.portfoliologo{
+  color: red;
+
+}
+.header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1rem;
+background-color: black;
+
+}
+
+.nav-menu{
+    display: flex;
+   
+}
+.nav-menu li{
+    padding: 0 1rem;
+    font-family: 'Outfit', sans-serif;
+}
+.nav-menu li a{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+h1,
+h4,
+p,
+a{
+  color: #fff;
+  text-decoration: none;
+}
+ul{
+  list-style-type: none;
+}

@@ -1,0 +1,183 @@
+.mainskill{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    /* border: 2px solid orange; */
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    justify-content: space-between;
+    
+}
+
+
+.skill1part{
+    margin-top: 40px;
+  /* border: 1px solid red; */
+  height: 430px;
+  width: 630px;
+  margin-left: 100px;
+}
+.skillheading{
+
+}
+.skilldescription{
+    font-weight: bold;
+    line-height: 2;
+    text-align: justify;
+    color: grey;
+
+}
+
+/* .skillbtn{
+background-color: red;
+color: white;
+font-weight: bolder;
+width: 100px;
+height: 35px;
+border-radius: 10px;
+} */
+
+.skill2part{
+    margin-top: 40px;
+    /* border: 1px solid red; */
+    height: 430px;
+    width: 450px;
+    margin-right: 100px;
+}
+/* first skill */
+.skill1{
+    border: 1px solid white;
+    width: 450px;
+    height: 20px;
+    margin-top: 4px;
+}
+.innerskill1{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 400px;
+    height: 19px;
+}
+.html1{
+   
+    color: white;
+}
+.percentage1{
+    /* margin-left: 360px; 
+    color: white; */
+
+}
+/* second skill */
+.skill2{
+    border: 1px solid white;
+    width: 450px;
+    height: 20px;
+    margin-top: 4px;
+}
+.innerskill2{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 370px;
+    height: 19px;
+}
+.css2{
+   
+    color: white;
+}
+.percentage2{
+    /* margin-left: 380px; 
+    color: white; */
+
+}
+
+/* third skill */
+.skill3{
+    border: 1px solid white;
+    width: 450px;
+    height: 20px;
+    margin-top: 4px;
+}
+.innerskill3{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 275px;
+    height: 19px;
+}
+.javascript3{
+   
+    color: white;
+}
+.percentage3{
+    /* margin-left: 335px; 
+    color: white; */
+
+}
+
+/* fourth skill */
+.skill4{
+    border: 1px solid white;
+    width: 450px;
+    height: 20px;
+    margin-top: 4px;
+}
+.innerskill4{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 340px;
+    height: 19px;
+}
+.bootstrap4{
+   
+    color: white;
+}
+.percentage4{
+    /* margin-left: 345px; 
+    color: white; */
+
+}
+
+/* fifth skill */
+.skill5{
+    border: 1px solid white;
+    width: 450px;
+    height: 20px;
+    margin-top: 4px;
+}
+.innerskill5{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 280px;
+    height: 19px;
+}
+.reactjs5{
+   
+    color: white;
+}
+.percentage5{
+    /* margin-left: 360px; 
+    color: white; */
+
+}
+
+/* six skill */
+.skill6{
+    border: 1px solid white;
+    width: 450px;
+    height: 20px;
+    margin-top: 4px;
+}
+.innerskill6{
+    border: 1px solid black;
+    background-color:chartreuse;
+    width: 280px;
+    height: 19px;
+}
+.wordpress6{
+   
+    color: white;
+}
+.percentage6{
+    /* margin-left: 340px; 
+    color: white; */
+
+}
